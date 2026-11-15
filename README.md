@@ -1,5 +1,9 @@
 # Generador de plantillas v5
 
+**Usarlo en línea:** https://eloiaa-hub.github.io/Plantilla-para-Office/
+
+![El generador con el tipo Memoria o proyecto](img/programa.png)
+
 Programa HTML de un solo archivo, sin instalación y sin internet, para crear plantillas de documento para **Word (.dotx)** y **LibreOffice Writer (.ott)**.
 
 - `Generador_Plantillas_v5.html`: el generador. Se abre con doble clic.
